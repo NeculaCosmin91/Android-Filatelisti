@@ -1,2 +1,2 @@
 # Android-Filatelisti
-Aplicatie dezvoltata pentru sprijinul filatelistilor
+Aplicatie dezvoltata in sprijinul filatelistilor
